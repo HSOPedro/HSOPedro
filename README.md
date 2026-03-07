@@ -54,6 +54,8 @@ I am always looking to improve my skills and learn new technologies.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HSOPedro&theme=tokyonight"/>
 </p>
 
+---
+
 ## 📫 Connect with Me
 
 💬 Feel free to connect with me and discuss technology, programming or projects!
