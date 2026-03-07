@@ -46,9 +46,9 @@ I am always looking to improve my skills and learn new technologies.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HSOPedro&show_icons=true&theme=tokyonight)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HSOPedro&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=HSOPedro&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HSOPedro&layout=compact&theme=tokyonight)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HSOPedro&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=HSOPedro&layout=compact&theme=tokyonight)
 
 ---
 
