@@ -46,12 +46,12 @@ I am always looking to improve my skills and learn new technologies.
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HSOPedro&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=HSOPedro&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=HSOPedro&theme=tokyonight&hide_border=true" />
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HSOPedro&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=HSOPedro&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contact
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HSOPedro&theme=tokyonight"/>
+</p>
 
 Feel free to connect with me and discuss technology, programming or projects!
