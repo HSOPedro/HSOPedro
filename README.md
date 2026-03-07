@@ -47,11 +47,11 @@ I am always looking to improve my skills and learn new technologies.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=HSOPedro&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=HSOPedro&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HSOPedro&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HSOPedro&theme=dark"/>
 </p>
 
 ---
