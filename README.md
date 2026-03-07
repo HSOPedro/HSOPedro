@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hello! I'm Pedro
 
-<!--
-**HSOPedro/HSOPedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at **Inatel (Instituto Nacional de Telecomunicações)**  
+🔬 Undergraduate Researcher (Iniciação Científica)  
+💻 Passionate about programming, embedded systems and technology
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am currently studying **Computer Engineering at Inatel** and participating in an **undergraduate research project**, where I work with **embedded systems, sensors and programming**.
+
+I enjoy developing projects involving **hardware and software integration**, especially using microcontrollers like **ESP32**.
+
+I am always looking to improve my skills and learn new technologies.
+
+---
+
+## 💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-Programming-blue?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-Programming-red?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge&logo=python)
+
+---
+
+## ⚙️ Technologies and Interests
+
+- Embedded Systems  
+- ESP32 Development  
+- Sensor Integration  
+- Hardware & Software Communication  
+- Scientific Research Projects  
+
+---
+
+## 📚 Currently
+
+- 🎓 Studying **Computer Engineering**
+- 🔬 Working on **Scientific Initiation Research**
+- 🧠 Learning more about **Embedded Programming**
+- ⚡ Developing projects with **ESP32 and sensors**
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HSOPedro&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HSOPedro&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+Feel free to connect with me and discuss technology, programming or projects!
