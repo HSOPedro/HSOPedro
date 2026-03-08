@@ -25,6 +25,14 @@ I am always looking to improve my skills and learn new technologies.
 
 ---
 
+## 🧰 Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,vscode,git,github"/>
+</p>
+
+---
+
 ## ⚙️ Technologies and Interests
 
 - Embedded Systems  
@@ -47,11 +55,11 @@ I am always looking to improve my skills and learn new technologies.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=HSOPedro&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HSOPedro&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HSOPedro&theme=dark"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HSOPedro&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
