@@ -52,18 +52,6 @@ I am always looking to improve my skills and learn new technologies.
 
 ---
 
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSOPedro&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HSOPedro&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Connect with Me
 
 💬 Feel free to connect with me and discuss technology, programming or projects!
