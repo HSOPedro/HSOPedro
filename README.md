@@ -52,7 +52,7 @@ I am always looking to improve my skills and learn new technologies.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSOPedro&layout=compact&theme=tokyonight"/>
